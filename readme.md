@@ -31,3 +31,6 @@ You can see a sample of this [here](https://github.com/sf-wdi-29/sinatra-relatio
 * Option 3:  Find a gem that does things the Rails way, such as the [Sinatra Asset Pipeline](https://github.com/kalasjocke/sinatra-asset-pipeline)
 
 
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
